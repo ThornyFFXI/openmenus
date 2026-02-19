@@ -35,3 +35,6 @@ Options:
 - bluemagic
 - geomancy
 - trusts
+
+# Attribution
+This addon is really just a short throw-together to leverage reverse engineering done by @atom0s. The majority of the credit goes to him, I just added a quick command to allow users to benefit.
